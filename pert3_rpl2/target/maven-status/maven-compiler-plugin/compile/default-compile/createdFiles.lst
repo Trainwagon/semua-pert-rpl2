@@ -1,0 +1,4 @@
+com\mycompany\pert3_rpl2\model\ModelMahasiswa.class
+com\mycompany\pert3_rpl2\model\MahasiswaDAO.class
+com\mycompany\pert3_rpl2\controller\MahasiswaController.class
+com\mycompany\pert3_rpl2\view\MahasiswaView.class
